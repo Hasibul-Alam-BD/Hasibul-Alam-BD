@@ -65,12 +65,17 @@
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasibul-Alam-BD&theme=tokyonight&hide_border=true&border_radius=8&background=161b22&ring=38bdae&fire=ff79c6&currStreakLabel=38bdae" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasibul-Alam-BD&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161b22&title_color=70a5fd&icon_color=38bdae&text_color=c0caf5" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasibul-Alam-BD&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Alam-BD&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161b22&title_color=70a5fd&text_color=c0caf5" alt="Top Languages" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" alt="GitHub Stats Details"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="GitHub Repos Per Language"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="GitHub Stats Summary"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="GitHub Productive Time"/>
 </p>
 
 ---
