@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,29&height=200&section=header&text=Hasibul%20Alam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20CSE%20Undergrad%20%7C%20Tech%20Enthusiast&descFontSize=16&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,29&height=210&section=header&text=Hasibul%20Alam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20%7C%20SEO%20%26%20Digital%20Marketing&descFontSize=15&descAlignY=60&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=550&lines=%F0%9F%9A%80+Passionate+Full-Stack+Web+Developer;%E2%9A%A1+Building+Modern+%26+Scalable+Web+Apps;%F0%9F%A7%A0+MERN+Stack+%26+Next.js+Explorer;%F0%9F%92%BB+Always+Learning+%26+Solving+Problems;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+CSE+Undergraduate+%26+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%93%88+SEO+Specialist+%26+Growth+Strategist;%F0%9F%93%B1+Social+Media+%26+Digital+Marketing+Specialist;%F0%9F%9A%80+Building+Modern+%26+Impactful+Solutions;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hasibul-Alam-BD&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open to Collabs" />
+  <img src="https://img.shields.io/badge/Role-SEO%20%26%20Digital%20Marketing-ff5722?style=for-the-badge&logo=google&logoColor=white" alt="SEO Specialist" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-00bcd4?style=for-the-badge&logo=openai&logoColor=white" alt="AI ML" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -36,28 +37,30 @@
 
 ### 💫 About Me
 
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering
-- 💻 **Role:** Full-Stack Web Developer
-- 🚀 **Currently Exploring:** Next.js 14, Advanced Backend Architecture & TypeScript
-- 💬 **Ask Me About:** React, Node.js, Express, MongoDB, Tailwind CSS, JavaScript
-- ⚡ **Fun Fact:** Turning coffee and complex ideas into clean, functional code ☕✨
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering (CSE Undergrad)
+- 💻 **Roles & Expertise:** Full-Stack Web Developer • SEO Specialist • Digital Marketing & Social Media Specialist
+- 🤖 **Tech Exploration:** Artificial Intelligence (AI) & Machine Learning (ML)
+- 🚀 **Currently Exploring:** Next.js 14, AI Integrations, SEO Optimization & Full-Stack Architectures
+- 💬 **Ask Me About:** React, Node.js, Python, SEO Ranking, Social Media Growth, Digital Marketing
+- ⚡ **Fun Fact:** Merging technical development with data-driven marketing to build high-ranking web products 🚀📈
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Languages, Tech & Marketing Skills
 
 <p align="center">
-  <strong>⚡ Frontend & Languages</strong><br/>
+  <strong>⚡ Web Development & Programming</strong><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,python,c,cpp,git,github,vscode,figma,postman&theme=dark" alt="Web Dev Skills" />
   </a>
 </p>
 
 <p align="center">
-  <strong>⚡ Backend, Databases & Tools</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,c,cpp,python,git,github,vscode,figma,postman&theme=dark" alt="Backend & Tools" />
-  </a>
+  <strong>⚡ AI/ML & Digital Marketing Expertise</strong><br/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Python%20%7C%20Data%20Analysis-0284c7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-On--Page%20%7C%20Off--Page%20%7C%20Technical-16a34a?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-Content%20%7C%20Ads%20%7C%20Strategy-ea580c?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Social%20Media-Growth%20%7C%20Branding-d946ef?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ---
