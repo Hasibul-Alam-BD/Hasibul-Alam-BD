@@ -65,10 +65,6 @@
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasibul-Alam-BD&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" alt="GitHub Stats Details"/>
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="GitHub Repos Per Language"/>
 </p>
